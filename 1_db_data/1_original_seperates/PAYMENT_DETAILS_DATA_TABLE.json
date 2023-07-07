@@ -1,0 +1,440 @@
+{
+  "results" : [
+    {
+      "columns" : [
+        {
+          "name" : "PAYMENTID",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "CARID",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "EXPORTQUANTITY",
+          "type" : "NUMBER"
+        },
+        {
+          "name" : "PRICEDETAIL",
+          "type" : "NUMBER"
+        }
+      ],
+      "items" : [
+        {
+          "paymentid" : "12",
+          "carid" : "10",
+          "exportquantity" : 1,
+          "pricedetail" : 38300
+        },
+        {
+          "paymentid" : "2",
+          "carid" : "7",
+          "exportquantity" : 5,
+          "pricedetail" : 73500
+        },
+        {
+          "paymentid" : "62",
+          "carid" : "11",
+          "exportquantity" : 3,
+          "pricedetail" : 101700
+        },
+        {
+          "paymentid" : "83",
+          "carid" : "27",
+          "exportquantity" : 3,
+          "pricedetail" : 80700
+        },
+        {
+          "paymentid" : "23",
+          "carid" : "24",
+          "exportquantity" : 3,
+          "pricedetail" : 102000
+        },
+        {
+          "paymentid" : "51",
+          "carid" : "16",
+          "exportquantity" : 2,
+          "pricedetail" : 70400
+        },
+        {
+          "paymentid" : "97",
+          "carid" : "28",
+          "exportquantity" : 5,
+          "pricedetail" : 234000
+        },
+        {
+          "paymentid" : "10",
+          "carid" : "5",
+          "exportquantity" : 4,
+          "pricedetail" : 124000
+        },
+        {
+          "paymentid" : "52",
+          "carid" : "22",
+          "exportquantity" : 5,
+          "pricedetail" : 194000
+        },
+        {
+          "paymentid" : "93",
+          "carid" : "22",
+          "exportquantity" : 1,
+          "pricedetail" : 38800
+        },
+        {
+          "paymentid" : "45",
+          "carid" : "30",
+          "exportquantity" : 1,
+          "pricedetail" : 23200
+        },
+        {
+          "paymentid" : "93",
+          "carid" : "2",
+          "exportquantity" : 4,
+          "pricedetail" : 174400
+        },
+        {
+          "paymentid" : "54",
+          "carid" : "15",
+          "exportquantity" : 5,
+          "pricedetail" : 240500
+        },
+        {
+          "paymentid" : "2",
+          "carid" : "17",
+          "exportquantity" : 4,
+          "pricedetail" : 48400
+        },
+        {
+          "paymentid" : "26",
+          "carid" : "18",
+          "exportquantity" : 3,
+          "pricedetail" : 105900
+        },
+        {
+          "paymentid" : "100",
+          "carid" : "7",
+          "exportquantity" : 1,
+          "pricedetail" : 14700
+        },
+        {
+          "paymentid" : "54",
+          "carid" : "16",
+          "exportquantity" : 3,
+          "pricedetail" : 105600
+        },
+        {
+          "paymentid" : "39",
+          "carid" : "23",
+          "exportquantity" : 4,
+          "pricedetail" : 55600
+        },
+        {
+          "paymentid" : "97",
+          "carid" : "2",
+          "exportquantity" : 5,
+          "pricedetail" : 218000
+        },
+        {
+          "paymentid" : "33",
+          "carid" : "23",
+          "exportquantity" : 1,
+          "pricedetail" : 13900
+        },
+        {
+          "paymentid" : "100",
+          "carid" : "1",
+          "exportquantity" : 3,
+          "pricedetail" : 73500
+        },
+        {
+          "paymentid" : "2",
+          "carid" : "8",
+          "exportquantity" : 4,
+          "pricedetail" : 172400
+        },
+        {
+          "paymentid" : "12",
+          "carid" : "16",
+          "exportquantity" : 5,
+          "pricedetail" : 176000
+        },
+        {
+          "paymentid" : "26",
+          "carid" : "12",
+          "exportquantity" : 5,
+          "pricedetail" : 99000
+        },
+        {
+          "paymentid" : "55",
+          "carid" : "30",
+          "exportquantity" : 1,
+          "pricedetail" : 23200
+        },
+        {
+          "paymentid" : "13",
+          "carid" : "1",
+          "exportquantity" : 2,
+          "pricedetail" : 49000
+        },
+        {
+          "paymentid" : "73",
+          "carid" : "1",
+          "exportquantity" : 2,
+          "pricedetail" : 49000
+        },
+        {
+          "paymentid" : "9",
+          "carid" : "29",
+          "exportquantity" : 2,
+          "pricedetail" : 55000
+        },
+        {
+          "paymentid" : "61",
+          "carid" : "15",
+          "exportquantity" : 1,
+          "pricedetail" : 48100
+        },
+        {
+          "paymentid" : "52",
+          "carid" : "11",
+          "exportquantity" : 2,
+          "pricedetail" : 67800
+        },
+        {
+          "paymentid" : "89",
+          "carid" : "17",
+          "exportquantity" : 3,
+          "pricedetail" : 36300
+        },
+        {
+          "paymentid" : "45",
+          "carid" : "20",
+          "exportquantity" : 1,
+          "pricedetail" : 44800
+        },
+        {
+          "paymentid" : "29",
+          "carid" : "11",
+          "exportquantity" : 2,
+          "pricedetail" : 67800
+        },
+        {
+          "paymentid" : "39",
+          "carid" : "29",
+          "exportquantity" : 1,
+          "pricedetail" : 27500
+        },
+        {
+          "paymentid" : "82",
+          "carid" : "16",
+          "exportquantity" : 1,
+          "pricedetail" : 35200
+        },
+        {
+          "paymentid" : "87",
+          "carid" : "5",
+          "exportquantity" : 1,
+          "pricedetail" : 31000
+        },
+        {
+          "paymentid" : "98",
+          "carid" : "12",
+          "exportquantity" : 5,
+          "pricedetail" : 99000
+        },
+        {
+          "paymentid" : "45",
+          "carid" : "8",
+          "exportquantity" : 3,
+          "pricedetail" : 129300
+        },
+        {
+          "paymentid" : "13",
+          "carid" : "21",
+          "exportquantity" : 3,
+          "pricedetail" : 148500
+        },
+        {
+          "paymentid" : "26",
+          "carid" : "9",
+          "exportquantity" : 3,
+          "pricedetail" : 127500
+        },
+        {
+          "paymentid" : "100",
+          "carid" : "4",
+          "exportquantity" : 3,
+          "pricedetail" : 140400
+        },
+        {
+          "paymentid" : "98",
+          "carid" : "3",
+          "exportquantity" : 5,
+          "pricedetail" : 93500
+        },
+        {
+          "paymentid" : "90",
+          "carid" : "11",
+          "exportquantity" : 1,
+          "pricedetail" : 33900
+        },
+        {
+          "paymentid" : "23",
+          "carid" : "5",
+          "exportquantity" : 3,
+          "pricedetail" : 93000
+        },
+        {
+          "paymentid" : "53",
+          "carid" : "23",
+          "exportquantity" : 5,
+          "pricedetail" : 69500
+        },
+        {
+          "paymentid" : "62",
+          "carid" : "23",
+          "exportquantity" : 5,
+          "pricedetail" : 69500
+        },
+        {
+          "paymentid" : "62",
+          "carid" : "6",
+          "exportquantity" : 4,
+          "pricedetail" : 137600
+        },
+        {
+          "paymentid" : "73",
+          "carid" : "18",
+          "exportquantity" : 1,
+          "pricedetail" : 35300
+        },
+        {
+          "paymentid" : "83",
+          "carid" : "23",
+          "exportquantity" : 3,
+          "pricedetail" : 41700
+        },
+        {
+          "paymentid" : "33",
+          "carid" : "12",
+          "exportquantity" : 3,
+          "pricedetail" : 59400
+        },
+        {
+          "paymentid" : "76",
+          "carid" : "4",
+          "exportquantity" : 4,
+          "pricedetail" : 187200
+        },
+        {
+          "paymentid" : "52",
+          "carid" : "20",
+          "exportquantity" : 2,
+          "pricedetail" : 89600
+        },
+        {
+          "paymentid" : "75",
+          "carid" : "10",
+          "exportquantity" : 3,
+          "pricedetail" : 114900
+        },
+        {
+          "paymentid" : "54",
+          "carid" : "9",
+          "exportquantity" : 4,
+          "pricedetail" : 170000
+        },
+        {
+          "paymentid" : "12",
+          "carid" : "1",
+          "exportquantity" : 4,
+          "pricedetail" : 98000
+        },
+        {
+          "paymentid" : "1",
+          "carid" : "3",
+          "exportquantity" : 1,
+          "pricedetail" : 18700
+        },
+        {
+          "paymentid" : "19",
+          "carid" : "29",
+          "exportquantity" : 4,
+          "pricedetail" : 110000
+        },
+        {
+          "paymentid" : "55",
+          "carid" : "1",
+          "exportquantity" : 2,
+          "pricedetail" : 49000
+        },
+        {
+          "paymentid" : "50",
+          "carid" : "9",
+          "exportquantity" : 3,
+          "pricedetail" : 127500
+        },
+        {
+          "paymentid" : "27",
+          "carid" : "4",
+          "exportquantity" : 5,
+          "pricedetail" : 234000
+        },
+        {
+          "paymentid" : "26",
+          "carid" : "1",
+          "exportquantity" : 5,
+          "pricedetail" : 122500
+        },
+        {
+          "paymentid" : "55",
+          "carid" : "12",
+          "exportquantity" : 5,
+          "pricedetail" : 99000
+        },
+        {
+          "paymentid" : "89",
+          "carid" : "15",
+          "exportquantity" : 4,
+          "pricedetail" : 192400
+        },
+        {
+          "paymentid" : "90",
+          "carid" : "14",
+          "exportquantity" : 4,
+          "pricedetail" : 92800
+        },
+        {
+          "paymentid" : "87",
+          "carid" : "22",
+          "exportquantity" : 5,
+          "pricedetail" : 194000
+        },
+        {
+          "paymentid" : "2",
+          "carid" : "19",
+          "exportquantity" : 3,
+          "pricedetail" : 115200
+        },
+        {
+          "paymentid" : "1",
+          "carid" : "7",
+          "exportquantity" : 5,
+          "pricedetail" : 73500
+        },
+        {
+          "paymentid" : "46",
+          "carid" : "30",
+          "exportquantity" : 2,
+          "pricedetail" : 46400
+        },
+        {
+          "paymentid" : "23",
+          "carid" : "15",
+          "exportquantity" : 4,
+          "pricedetail" : 192400
+        }
+      ]
+    }
+  ]
+}

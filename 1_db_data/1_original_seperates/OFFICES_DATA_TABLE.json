@@ -1,0 +1,27 @@
+{
+  "results" : [
+    {
+      "columns" : [
+        {
+          "name" : "OFFICEID",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "CITY",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "HOTLINE",
+          "type" : "VARCHAR2"
+        }
+      ],
+      "items" : [
+        {
+          "officeid" : "1",
+          "city" : "New York",
+          "hotline" : "9371231231"
+        }
+      ]
+    }
+  ]
+}

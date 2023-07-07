@@ -1,0 +1,172 @@
+{
+  "results" : [
+    {
+      "columns" : [
+        {
+          "name" : "OFFICEID",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "CARID",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "QUANTITY",
+          "type" : "NUMBER"
+        }
+      ],
+      "items" : [
+        {
+          "officeid" : "1",
+          "carid" : "1",
+          "quantity" : 2
+        },
+        {
+          "officeid" : "1",
+          "carid" : "2",
+          "quantity" : 17
+        },
+        {
+          "officeid" : "1",
+          "carid" : "3",
+          "quantity" : 31
+        },
+        {
+          "officeid" : "1",
+          "carid" : "4",
+          "quantity" : 12
+        },
+        {
+          "officeid" : "1",
+          "carid" : "5",
+          "quantity" : 35
+        },
+        {
+          "officeid" : "1",
+          "carid" : "6",
+          "quantity" : 45
+        },
+        {
+          "officeid" : "1",
+          "carid" : "7",
+          "quantity" : 43
+        },
+        {
+          "officeid" : "1",
+          "carid" : "8",
+          "quantity" : 23
+        },
+        {
+          "officeid" : "1",
+          "carid" : "9",
+          "quantity" : 47
+        },
+        {
+          "officeid" : "1",
+          "carid" : "10",
+          "quantity" : 22
+        },
+        {
+          "officeid" : "1",
+          "carid" : "11",
+          "quantity" : 20
+        },
+        {
+          "officeid" : "1",
+          "carid" : "12",
+          "quantity" : 0
+        },
+        {
+          "officeid" : "1",
+          "carid" : "13",
+          "quantity" : 33
+        },
+        {
+          "officeid" : "1",
+          "carid" : "14",
+          "quantity" : 18
+        },
+        {
+          "officeid" : "1",
+          "carid" : "15",
+          "quantity" : 45
+        },
+        {
+          "officeid" : "1",
+          "carid" : "16",
+          "quantity" : 10
+        },
+        {
+          "officeid" : "1",
+          "carid" : "17",
+          "quantity" : 6
+        },
+        {
+          "officeid" : "1",
+          "carid" : "18",
+          "quantity" : 40
+        },
+        {
+          "officeid" : "1",
+          "carid" : "19",
+          "quantity" : 47
+        },
+        {
+          "officeid" : "1",
+          "carid" : "20",
+          "quantity" : 48
+        },
+        {
+          "officeid" : "1",
+          "carid" : "21",
+          "quantity" : 6
+        },
+        {
+          "officeid" : "1",
+          "carid" : "22",
+          "quantity" : 46
+        },
+        {
+          "officeid" : "1",
+          "carid" : "23",
+          "quantity" : 14
+        },
+        {
+          "officeid" : "1",
+          "carid" : "24",
+          "quantity" : 30
+        },
+        {
+          "officeid" : "1",
+          "carid" : "25",
+          "quantity" : 2
+        },
+        {
+          "officeid" : "1",
+          "carid" : "26",
+          "quantity" : 38
+        },
+        {
+          "officeid" : "1",
+          "carid" : "27",
+          "quantity" : 48
+        },
+        {
+          "officeid" : "1",
+          "carid" : "28",
+          "quantity" : 31
+        },
+        {
+          "officeid" : "1",
+          "carid" : "29",
+          "quantity" : 0
+        },
+        {
+          "officeid" : "1",
+          "carid" : "30",
+          "quantity" : 31
+        }
+      ]
+    }
+  ]
+}

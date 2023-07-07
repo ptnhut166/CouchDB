@@ -1,0 +1,188 @@
+{
+  "results" : [
+    {
+      "columns" : [
+        {
+          "name" : "OFFICEID",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "CARID",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "IMPORTDATE",
+          "type" : "DATE"
+        },
+        {
+          "name" : "IMPORTQUANTITY",
+          "type" : "NUMBER"
+        }
+      ],
+      "items" : [
+        {
+          "officeid" : "2",
+          "carid" : "4",
+          "importdate" : "04-OCT-19",
+          "importquantity" : 39
+        },
+        {
+          "officeid" : "2",
+          "carid" : "12",
+          "importdate" : "24-JUN-16",
+          "importquantity" : 15
+        },
+        {
+          "officeid" : "2",
+          "carid" : "17",
+          "importdate" : "17-JUL-13",
+          "importquantity" : 27
+        },
+        {
+          "officeid" : "2",
+          "carid" : "29",
+          "importdate" : "02-JUL-19",
+          "importquantity" : 41
+        },
+        {
+          "officeid" : "2",
+          "carid" : "7",
+          "importdate" : "20-JUN-17",
+          "importquantity" : 17
+        },
+        {
+          "officeid" : "2",
+          "carid" : "8",
+          "importdate" : "10-MAY-19",
+          "importquantity" : 21
+        },
+        {
+          "officeid" : "2",
+          "carid" : "10",
+          "importdate" : "16-OCT-15",
+          "importquantity" : 45
+        },
+        {
+          "officeid" : "2",
+          "carid" : "4",
+          "importdate" : "14-JAN-22",
+          "importquantity" : 15
+        },
+        {
+          "officeid" : "2",
+          "carid" : "26",
+          "importdate" : "18-DEC-18",
+          "importquantity" : 11
+        },
+        {
+          "officeid" : "2",
+          "carid" : "23",
+          "importdate" : "27-JUL-12",
+          "importquantity" : 44
+        },
+        {
+          "officeid" : "2",
+          "carid" : "20",
+          "importdate" : "09-MAR-11",
+          "importquantity" : 43
+        },
+        {
+          "officeid" : "2",
+          "carid" : "13",
+          "importdate" : "01-NOV-19",
+          "importquantity" : 26
+        },
+        {
+          "officeid" : "2",
+          "carid" : "24",
+          "importdate" : "17-DEC-16",
+          "importquantity" : 12
+        },
+        {
+          "officeid" : "2",
+          "carid" : "19",
+          "importdate" : "11-FEB-15",
+          "importquantity" : 34
+        },
+        {
+          "officeid" : "2",
+          "carid" : "14",
+          "importdate" : "05-OCT-16",
+          "importquantity" : 16
+        },
+        {
+          "officeid" : "2",
+          "carid" : "28",
+          "importdate" : "06-JAN-13",
+          "importquantity" : 48
+        },
+        {
+          "officeid" : "2",
+          "carid" : "21",
+          "importdate" : "03-DEC-21",
+          "importquantity" : 43
+        },
+        {
+          "officeid" : "2",
+          "carid" : "15",
+          "importdate" : "31-MAR-20",
+          "importquantity" : 32
+        },
+        {
+          "officeid" : "2",
+          "carid" : "17",
+          "importdate" : "08-SEP-15",
+          "importquantity" : 34
+        },
+        {
+          "officeid" : "2",
+          "carid" : "28",
+          "importdate" : "26-MAY-10",
+          "importquantity" : 38
+        },
+        {
+          "officeid" : "2",
+          "carid" : "13",
+          "importdate" : "13-JUN-10",
+          "importquantity" : 35
+        },
+        {
+          "officeid" : "2",
+          "carid" : "20",
+          "importdate" : "20-NOV-12",
+          "importquantity" : 10
+        },
+        {
+          "officeid" : "2",
+          "carid" : "9",
+          "importdate" : "12-MAR-21",
+          "importquantity" : 45
+        },
+        {
+          "officeid" : "2",
+          "carid" : "9",
+          "importdate" : "07-MAY-18",
+          "importquantity" : 30
+        },
+        {
+          "officeid" : "2",
+          "carid" : "17",
+          "importdate" : "27-MAY-22",
+          "importquantity" : 47
+        },
+        {
+          "officeid" : "2",
+          "carid" : "6",
+          "importdate" : "08-NOV-17",
+          "importquantity" : 11
+        },
+        {
+          "officeid" : "2",
+          "carid" : "22",
+          "importdate" : "12-JUL-21",
+          "importquantity" : 26
+        }
+      ]
+    }
+  ]
+}

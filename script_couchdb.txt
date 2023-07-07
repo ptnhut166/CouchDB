@@ -1,0 +1,8 @@
+// Export data from couchdb
+curl -X GET http://127.0.0.1:5984/[mydatabase]/_all_docs\?include_docs\=true > /Desktop/db.json
+
+// Import data to couchdb
+curl -d @db.json -H "Content-type: application/json" -X POST http://127.0.0.1:5984/[mydatabase]/_bulk_docs
+
+// Replicate couchdb data
+curl -H 'Content-Type: application/json' -X POST http://localhost:5984/_replicate -d ' {"source": "http://example.com:5984/dbname/", "target": "http://localhost@:5984/dbname/"}'
